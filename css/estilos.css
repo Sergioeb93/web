@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor{
+  width: 90%;
+  max-width: 1200px;
+  overflow: hidden;
+  margin: auto;
+  padding: 60px 0;
+}
+
+header{
+height: 30vh;
+background-color: #683ab77c;
+}
+
+body{
+    h3 .lato-light {
+        font-family: "Lato", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+      }
+      
+    h2  .lato-regular {
+        font-family: "Lato", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+    h1  .lato-bold {
+        font-family: "Lato", sans-serif;
+        font-weight: 700;
+        font-style: bold;
+      }
+      
+}
+
+    p    .andada-pro{
+        font-family: "Andada Pro", serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+  }
+
