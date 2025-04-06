@@ -1,5 +1,6 @@
-<style>
-        header { text-align: center;
+*{ margin: 0; padding: 0; box-sizing: border-box;
+}
+header { text-align: center;
         height: 45vh;
         background-color: #683ab77c;
         }
@@ -8,13 +9,8 @@
         h2 { color: purple; }
         h3 { color: #e1361e; }
         p { line-height: 2.0; }
- </style>
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
 
 .contenedor{
   width: 90%;
