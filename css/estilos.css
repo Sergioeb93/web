@@ -1,14 +1,19 @@
-*{ margin: 0; padding: 0; box-sizing: border-box;
-}
+*{ margin: 0; padding: 0; box-sizing: border-box; }
 header { text-align: center;
         height: 45vh;
         background-color: #683ab77c;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
         }
-        body { font-family: "Lucida Console", "Courier New", monospace; font-size: 18px; background-color: #cac5dc; }
+
+body { font-family: "Lucida Console", "Courier New", monospace; font-size: 18px; background-color: #cac5dc; }
         h1 { color: purple; }
         h2 { color: purple; }
         h3 { color: #e1361e; }
-        p { line-height: 2.0; }
+        p { line-height: 2.0; 
+        }
 
 
 
