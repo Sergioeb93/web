@@ -1,3 +1,15 @@
+<style>
+        header { text-align: center;
+        height: 30vh;
+        background-color: #683ab77c;
+        }
+        body { font-family: "Lucida Console", "Courier New", monospace; font-size: 16px; background-color: #cac5dc; }
+        h1 { color: purple; }
+        h2 { color: purple; }
+        h3 { color: #e1361e; }
+        p { line-height: 2.0; }
+ </style>
+
 *{
     margin: 0;
     padding: 0;
@@ -11,37 +23,4 @@
   margin: auto;
   padding: 60px 0;
 }
-
-header{
-height: 30vh;
-background-color: #683ab77c;
-}
-
-body{
-    h3 .lato-light {
-        font-family: "Lato", sans-serif;
-        font-weight: 300;
-        font-style: normal;
-      }
-      
-    h2  .lato-regular {
-        font-family: "Lato", sans-serif;
-        font-weight: 400;
-        font-style: normal;
-      }
-      
-    h1  .lato-bold {
-        font-family: "Lato", sans-serif;
-        font-weight: 700;
-        font-style: bold;
-      }
-      
-}
-
-    p    .andada-pro{
-        font-family: "Andada Pro", serif;
-        font-optical-sizing: auto;
-        font-weight: 400;
-        font-style: normal;
-  }
 
