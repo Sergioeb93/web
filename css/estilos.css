@@ -15,7 +15,7 @@ body { font-family: "Lucida Console", "Courier New", monospace; font-size: 18px;
         p { line-height: 2.0; 
         }
 
-
+nav-menu { text-align: center; }
 
 .contenedor{
   width: 90%;
